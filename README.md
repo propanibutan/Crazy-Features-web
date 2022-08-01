@@ -1,2 +1,2 @@
 # Here is first try of Crazy Features website.
-I try learn here sth.
+I try learn here sth on js camp.
